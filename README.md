@@ -1,12 +1,12 @@
 
 # LazyRolls settings for Homebridge
 
-
-#### Motorized roller blinds drive LazyRolls
+**Motorized roller blinds drive LazyRolls**
 
 Setting up a [LazyRolls](https://github.com/ACE1046/LazyRolls) drive using [Homebridge](https://github.com/homebridge/homebridge) and [MQTT](https://github.com/arachnetech/homebridge-mqttthing).
 
-#### Моторизированный привод для рулонных штор LazyRolls
+**Моторизированный привод для рулонных штор LazyRolls**
+
 Настройка привода [LazyRolls](https://github.com/ACE1046/LazyRolls)
 используя [Homebridge](https://github.com/homebridge/homebridge) и [MQTT](https://github.com/arachnetech/homebridge-mqttthing). 
 
