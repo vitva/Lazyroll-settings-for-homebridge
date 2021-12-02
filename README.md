@@ -6,12 +6,9 @@ Motorized roller blinds drive
 Настройка Моторизированного привода LazyRoll для рулонных штор
 используя Homebridge и MQTT. 
 
-### Ссылка
+### Settings:
 
-Проект: https://github.com/ACE1046/LazyRolls
-
-```javascript 
-
+```
 {
             "accessory": "mqttthing",
             "type": "windowCovering",
@@ -29,4 +26,8 @@ Motorized roller blinds drive
                 "stopped-value"
             ]
         }
+```
 
+#### Ссылка на проект
+
+https://github.com/ACE1046/LazyRolls
