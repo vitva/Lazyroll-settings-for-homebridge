@@ -1,4 +1,4 @@
-# Lazyroll-settings-for-homebridge
+# Lazyroll-setting-for-homebridge
 
 
 Motorized roller blinds drive
