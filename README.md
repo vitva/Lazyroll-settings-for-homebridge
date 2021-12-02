@@ -3,7 +3,7 @@
 
 Motorized roller blinds drive
 
-Настройка Моторизированного привода LazyRoll для рулонных штор
+Настройка Моторизированного привода LazyRoll для рулонных штор,
 используя Homebridge и MQTT. 
 
 ### Example config.json:
