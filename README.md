@@ -28,6 +28,5 @@ Motorized roller blinds drive
         }
 ```
 
-#### Ссылка на проект Lazyroll
-
+#### Ссылка на проект Lazyroll:
 https://github.com/ACE1046/LazyRolls
