@@ -28,6 +28,9 @@ Setting up a [LazyRolls](https://github.com/ACE1046/LazyRolls) drive using [Home
    "positionStateValues": ["decreasing-value", "increasing-value", "stopped-value"]
 }
 ```
+ 
+
+`%HOSTNAME%` для автоматической подстановки сетевого имени шторы, заданного в настройках шторы
 
 • **The optional** `minPosition` and `maxPosition` allow the minimum and maximum position values to be changed from their defaults of 0 and 100 respectively.
 
