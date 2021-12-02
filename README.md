@@ -1,4 +1,4 @@
-# Lazyroll-setting-for-homebridge
+# Lazyroll-settings-for-homebridge
 
 
 Motorized roller blinds drive
@@ -28,6 +28,6 @@ Motorized roller blinds drive
         }
 ```
 
-#### Ссылка на проект
+#### Ссылка на проект Lazyroll
 
 https://github.com/ACE1046/LazyRolls
