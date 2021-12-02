@@ -29,9 +29,9 @@ Setting up a [LazyRolls](https://github.com/ACE1046/LazyRolls) drive using [Home
 }
 ```
 
-• The optional `minPosition` and `maxPosition` allow the minimum and maximum position values to be changed from their defaults of 0 and 100 respectively.
+• **The optional** `minPosition` and `maxPosition` allow the minimum and maximum position values to be changed from their defaults of 0 and 100 respectively.
 
-• Необязательно `minPosition` и `maxPosition` позволяют изменять минимальное и максимальное значения позиции по сравнению с их значениями по умолчанию 0 и 100 соответственно.
+• **Необязательно** `minPosition` и `maxPosition` позволяют изменять минимальное и максимальное значения позиции по сравнению с их значениями по умолчанию 0 и 100 соответственно.
 
 ```
 "minPosition":0,
