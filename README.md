@@ -30,7 +30,9 @@ Setting up a [LazyRolls](https://github.com/ACE1046/LazyRolls) drive using [Home
 ```
  
 
-`%HOSTNAME%` для автоматической подстановки сетевого имени шторы, заданного в настройках шторы
+`%HOSTNAME%` for automatic substitution of the network name specified in the curtain settings, or specify it manually.
+
+`%HOSTNAME%` для автоматической подстановки сетевого имени заданного в настройках шторы или же указать его вручную.
 
 • **The optional** `minPosition` and `maxPosition` allow the minimum and maximum position values to be changed from their defaults of 0 and 100 respectively.
 
